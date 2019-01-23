@@ -16,6 +16,7 @@ public class bethy {
          int s1 = Integer.parseInt(br.readLine());
          System.out.print("Sumando 2 : ");
          int s2 = Integer.parseInt(br.readLine());
+         kmjobnlibjh piub 
          int suma=s1+s2;
          System.out.println ("La suma es " + s1 + "+" + s2 +"="+ suma);
       }
